@@ -1,5 +1,8 @@
 _repo: Histoire-du-XIXe-siecle-volume-23-b-II-Jusqu-au-dix-huit-Brumaire_73199
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73199-h/images/cover.jpg
 creator:
   author:
     agent_name: Michelet, Jules
@@ -12,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Michelet
     - http://en.wikipedia.org/wiki/Jules_Michelet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73199#Histoire-du-XIXe-siecle-volume-23-b-II-Jusqu-au-dix-huit-Brumaire
 gutenberg_issued: '2024-03-19'
 gutenberg_type: Text
 identifiers:
